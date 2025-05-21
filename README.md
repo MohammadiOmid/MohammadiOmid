@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Omid Mohammadi! 👋<br><br>Welcome to my GitHub! I'm a Computer Science enthusiast pursuing my Bachelor of Science at Bucknell University, passionate about blending technology with creativity to build impactful digital solutions.<br><br>🌟 About Me<br><br>🎓 Education: Bachelor of Science in Computer Science, Minor in Studio Arts from Bucknell University (Class of 2025).<br><br>💡 Interests: Data Analysis, Software Engineering, Web Development, AI and Machine Learning, Geospatial Technologies, Digital Accessibility, and Visual Arts.
+Hi there, I'm Omid Mohammadi! 👋<br><br>Welcome to my GitHub! I'm a Computer Science enthusiast pursuing my Bachelor of Science at Bucknell University, passionate about blending technology with creativity to build impactful digital solutions.<br><br>🎓 Education: Bachelor of Science in Computer Science, Minor in Studio Arts from Bucknell University (Class of 2025).<br><br>💡 Interests: Data Analysis, Software Engineering, Web Development, AI and Machine Learning, Geospatial Technologies, Digital Accessibility, and Visual Arts.
 
 
 ## 🌐 Socials:
